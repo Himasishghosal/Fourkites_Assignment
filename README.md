@@ -12,7 +12,7 @@ The goal is to empirically validate connections between **geometric properties**
 ## 🚀 Key Features & Methodologies
 
 ### 1. Rigorous Landscape Visualization
-Standard Euclidean plotting fails to account for the scale-invariance of neural networks. This project implements **Filter-Wise Normalization** (based on *Li et al., 2018*) to generate accurate 1D and 2D contour plots of the loss surface.
+Standard Euclidean plotting fails to account for the scale-invariance of neural networks. This project implements **Filter-Wise Normalization** (based on *Visualizing the Loss Landscape of Neural Nets,(NeurIPS 2018)*) to generate accurate 1D and 2D contour plots of the loss surface.
 - **1D Linear Interpolation:** Visualizing loss along specific direction vectors.
 - **2D Surface Contours:** Projecting the high-dimensional parameter space onto two random, filter-normalized axes.
 
