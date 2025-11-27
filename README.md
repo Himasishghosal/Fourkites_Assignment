@@ -1,4 +1,4 @@
-# Loss Landscape Geometry & Optimization Dynamics
+# Loss Landscape Geometry & Optimization Dynamics in Neural Networks
 
 **Author:** Himasish Ghosal  
 **Roll No:** MA24M010  
